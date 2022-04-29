@@ -33,7 +33,7 @@
 | <a href="https://github.com/ndayishimiyeeric/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ndayishimiyeeric&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Odalton's github stats" /></a> | <a href="https://github.com/ndayishimiyeeric/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndayishimiyeeric&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![Odalton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nderic)](https://github.com/ndayishimiyeeric/github-readme-stats)
+[![wakatime](https://wakatime.com/badge/user/6bbc8eee-82fe-4e57-b589-a0afb55050a6.svg)](https://wakatime.com/@6bbc8eee-82fe-4e57-b589-a0afb55050a6)
 
 <h2 align="center"><b>Connect with me</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="30px"></h2>
 
