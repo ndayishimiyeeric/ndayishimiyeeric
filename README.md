@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋 I'm Ndayishimiye Eric&nbsp; (Odalton)</h1>
 <h3 align="center">A Software developer from Rwanda.</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ndayishimiyeeric&label=Visitors&color=green&style=plastic" alt="Ndayishimiye Eric" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ndayishimiyeeric&label=Views&color=green&style=plastic" alt="Ndayishimiye Eric" /></p>
 
 ## **About me** 👨🏿
 
@@ -33,7 +33,7 @@
 | <a href="https://github.com/ndayishimiyeeric/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ndayishimiyeeric&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Odalton's github stats" /></a> | <a href="https://github.com/ndayishimiyeeric/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndayishimiyeeric&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-[![wakatime](https://wakatime.com/badge/user/6bbc8eee-82fe-4e57-b589-a0afb55050a6.svg)](https://wakatime.com/@6bbc8eee-82fe-4e57-b589-a0afb55050a6)
+[![Odalton's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=nderic)](https://github.com/ndayishimiyeeric/github-readme-stats)
 
 <h2 align="center"><b>Connect with me</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="30px"></h2>
 
