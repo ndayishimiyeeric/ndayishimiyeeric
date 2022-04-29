@@ -8,7 +8,7 @@
 - Learning the best practices towards working as a remote software developer with the help of ![](https://img.shields.io/badge/-Microverse-blueviolet)
 - I'm very interested in collaborating and contributing to open source projects.
 - I would like to contribute to the field of `Artificial Intelligence` and `Data Science` in the future.
-- I have a bachelor's degree in Computer Science from ![](https://img.shields.io/badge/-University%20of%20Rwanda-blue) and a system administration certificate Authorized by ![](https://img.shields.io/badge/-Google-green)  Offered through ![](https://img.shields.io/badge/-Coursera-blue).
+- I have a bachelor's degree in Computer Science from ![](https://img.shields.io/badge/-University%20of%20Rwanda-blue) and a system administration certificate Authorized by ![](https://img.shields.io/badge/-Google-green)  Offered through ![](https://img.shields.io/badge/-Coursera-blue)
 - In my Free time, I love playing Basketball 🏀 listening to music 🎵 and reading books 📔.
 
 ### **Languages & Frameworks** 📶 
