@@ -1,8 +1,8 @@
-<h1 align="center">Hello 👋 I'm Ndayishimiye Eric&nbsp; (Odalton)</h1>
-<h3 align="center">A Software developer from Rwanda.</h3>
+<h2 align="center" style="font-size:2px;">Hello 👋 I'm Ndayishimiye Eric&nbsp; (Odalton)</h2>
+<p align="center">A Software developer from Rwanda.</>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndayishimiyeeric&label=Views&color=green&style=plastic" alt="Ndayishimiye Eric" /></p>
 
-## **About me** 👨🏿
+<h3>About me👨🏿</h3>
 
 - I am currently studying **Software development** at ![](https://img.shields.io/badge/-Microverse-blueviolet). 🖥️
 - Learning the best practices towards working as a remote software developer with the help of ![](https://img.shields.io/badge/-Microverse-blueviolet)
@@ -11,24 +11,35 @@
 - I have a bachelor's degree in Computer Science from ![](https://img.shields.io/badge/-University%20of%20Rwanda-blue) and a system administration certificate Authorized by ![](https://img.shields.io/badge/-Google-green)  Offered through ![](https://img.shields.io/badge/-Coursera-blue)
 - In my Free time, I love playing Basketball 🏀 listening to music 🎵 and reading books 📔.
 
-### **Languages & Frameworks** 📶 
+<h4>Languages & Frameworks 📶 </h4>
+<p align="left"> 
+ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="css3"        width="40" height="40"/>
+ </a>
+ <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+ </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+ </a>
+ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img    src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>    </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  </a>
+</p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Sass](	https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+<h4 align="left">Tools</h4>
+<p align="left"> 
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="vscode" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
+</p>
 
-### **Tools** 🛠 
+<h4>Github Stats</4>
 
-![Npm](https://img.shields.io/badge/Npm-F85032?style=for-the-badge&logo=npm&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f12711?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Webpack](https://img.shields.io/badge/Webpack-7BC6CC?style=for-the-badge&logo=webpack&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Vscode-0575E6?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-
-### **Github Stats**
+<br />
+<p></p>
 
 | <a href="https://github.com/ndayishimiyeeric/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=ndayishimiyeeric&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Odalton's github stats" /></a> | <a href="https://github.com/ndayishimiyeeric/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndayishimiyeeric&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -38,8 +49,8 @@
 <h2 align="center"><b>Connect with me</b><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" height="30px"></h2>
 
 <p align="center">
-  <a target="_blank" href="https://linkedin.com/in/nderic"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a target="_blank" href="https://linkedin.com/in/nderic"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg" /></a>
   <a target="_blank"
-    href="mailto:ndayishimiyeeric86@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" /></a>
-  <a target="_blank" href="https://twitter.com/odaltongain"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+    href="mailto:ndayishimiyeeric86@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-ar21.svg" /></a>
+  <a target="_blank" href="https://twitter.com/odaltongain"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-ar21.svg" /></a>
 </p
