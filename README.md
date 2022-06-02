@@ -36,6 +36,7 @@
 <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="vscode" width="40" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="vscode" width="40" height="40"/>
+<img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="netlify" width="40" height="40"/>
 </p>
 
 <h4>Github Stats</4>
