@@ -4,8 +4,8 @@
 
 <h3>About me👨🏿</h3>
 
-- I am currently studying **Software development** at ![](https://img.shields.io/badge/-Microverse-blueviolet). 🖥️
-- Learning the best practices towards working as a remote software developer with the help of ![](https://img.shields.io/badge/-Microverse-blueviolet)
+- I am currently studying **Distributed Artificial Intelligence** at ![](https://img.shields.io/badge/-Uniparis-blueviolet). 🖥️
+- Learned the best practices towards working as a remote software developer with the help of ![](https://img.shields.io/badge/-Microverse-blueviolet)
 - I'm very interested in collaborating and contributing to open source projects.
 - I would like to contribute to the field of `Artificial Intelligence` and `Data Science` in the future.
 - I have a bachelor's degree in Computer Science from ![](https://img.shields.io/badge/-University%20of%20Rwanda-blue) and a system administration certificate Authorized by ![](https://img.shields.io/badge/-Google-green)  Offered through ![](https://img.shields.io/badge/-Coursera-blue)
