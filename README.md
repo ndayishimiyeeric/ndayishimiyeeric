@@ -16,7 +16,7 @@ Full-Stack Developer specializing in Distributed Artificial Intelligence. <br>
 </p>
 
 <p>
-  <p><img src="https://github-readme-stats.vercel.app/api?username=ndayishimiyeeric&layout=compact&show_icons=true&theme=gotham&" alt="abhisheknaiidu" /></p>
+  <p><img src="https://github-readme-stats.vercel.app/api?username=ndayishimiyeeric&layout=compact&show_icons=true&theme=transparent" alt="ndayishimiyeeric" /></p>
   <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndayishimiyeeric&layout=compact&theme=gotham"/></p> -->
 </p>
 
