@@ -3,7 +3,7 @@ Full-Stack Developer specializing in Distributed Artificial Intelligence. <br>
 
 **Front-End**: Typescript, React, Next.js, HTML5, CSS3 <br>
 **Back-End**: Python, Java, Spring boot, Django, MySQL <br>
-**Back-End**: JADE(Java Agent DEvelopment Framework) <br>
+**MAS**: JADE(Java Agent DEvelopment Framework) <br>
 **Tools & Methods**: Git, Github, Gitflow, Railways, Varcel, Docker, Chrome Dev Tools <br>
 **Professional**: Remote Pair-Programming, Teamwork
 
